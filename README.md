@@ -5,7 +5,6 @@
 ![animated-dinosaur-image-0001](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/b15b30b2-585c-4acf-b20d-e7896516ff4f)
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -28,7 +27,7 @@ I'm a computer science student at the University of Rwanda, passionate about bot
 
 #### Languages and Tools:🔭
 <p align="center">
-  <img src="https://images.app.goo.gl/Yh7y8GwQTwPiLCRe7" alt="HTML" title="HTML" width="40" height="40"/>
+  <img src="⚛️" alt="HTML" title="HTML" width="40" height="40"/>
   <img src="https://images.app.goo.gl/3TjNP8Yzg67HW8Uc9" alt="CSS" title="CSS" width="40" height="40"/>
   <img src="https://images.app.goo.gl/zwfTeMy7W6nhherH9" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   <img src="https://images.app.goo.gl/ezbHajNzSpuE3vi57" alt="TypeScript" title="TypeScript" width="40" height="40"/>
