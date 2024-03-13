@@ -2,6 +2,7 @@
 
 <!--
 **Uwihanganyeobed/Uwihanganyeobed** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![animated-dinosaur-image-0001](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/b15b30b2-585c-4acf-b20d-e7896516ff4f)
 
 Here are some ideas to get you started:
 
