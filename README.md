@@ -1,115 +1,49 @@
-### UWIHANGANYE Obed 👋
-![nodejs](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/8ada3c5b-009b-471f-be94-cfcad9fc03a3)
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-![javascript](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/ebb12363-6410-4b7c-b914-d5e958fdd459)
-![react](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/eb91d9f1-3a3d-4c67-94e3-f1974ad98103)
+###
 
-![vue](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/eb5e1cdd-5c08-4fca-b76d-debd62f56b6c)![git](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/edac9da7-7c24-4cc4-b468-ecb6f74390bf)
-
-![mysql](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/854161bf-90c2-4d78-a20f-d5e573febbd1)
-
-![cpp](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/e7b42046-3898-4f46-995d-449e65cc4877)
-![python](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/e31a12d8-c5d1-4f04-893c-0e5f6d9ccfc6)
-
-
-
-
-
-<!--
-**Uwihanganyeobed/Uwihanganyeobed** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![animated-dinosaur-image-0001](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/b15b30b2-585c-4acf-b20d-e7896516ff4f)
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm UWIHANGANYE Obed! 👋
-
-I'm a computer science student at the University of Rwanda, passionate about both front-end and back-end development.
-
-#### Check out my YouTube channel for coding tutorials:
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=g04N71f4a_g&t=953s" style="background-image:url('URL_TO_IMAGE_1')"></a>
-  <a href="https://www.youtube.com/shorts/mTEN5JLrACg" style="background-image:url('URL_TO_IMAGE_2')"></a>
-  <!-- Add more <a> elements with background images for additional videos -->
-</p>
-
-#### Languages and Tools:🔭
-<p align="center">
-  <img src="⚛️" alt="HTML" title="HTML" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/3TjNP8Yzg67HW8Uc9" alt="CSS" title="CSS" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/zwfTeMy7W6nhherH9" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/ezbHajNzSpuE3vi57" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/F7M2cccMKCBy24bF6" alt="React" title="React" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/ie468pGSamReGY8N9" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/eH9WKKqpLWMDND8n6" alt="Java" title="Java" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/pxXXJDLLehp2SnpT7" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/GgEADWbL5qu94yBy8" alt="MySQL" title="MySQL" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/FVP5e1wMvDnWUvae6" alt="jQuery" title="jQuery" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/mUirKbv6ZqdWhA48A" alt="C" title="C" width="40" height="40"/>
-  <img src="https://images.app.goo.gl/WE5AtSGuEDoowEaM6" alt="C++" title="C++" width="40" height="40"/>
-    <img src="https://images.app.goo.gl/PV6JKuhFaq7PZaCZA" alt="Express" title="Express" width="40" height="40"/>
-</p>
-<h5>Collaboration with Other Programmers</h5>
-<p>Effective collaboration with fellow programmers is essential for success in any project. By leveraging each other's strengths, sharing knowledge, and communicating openly, we can build robust solutions that meet our goals efficiently. Utilizing version control systems such as Git allows us to work concurrently on codebases while keeping track of changes and resolving conflicts seamlessly. Additionally, establishing clear coding conventions and documentation practices fosters better understanding and smoother integration of our contributions. Regular code reviews and constructive feedback sessions further enhance the quality of our work and promote continuous improvement. Together, we can achieve greater innovation and tackle complex challenges with confidence.</p>
-
-abhisheknaiidu/README.md
-hi, i'm Abhishek Naidu, a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-
-💼 any freelance work? do reach, email :)
-💬 ask me about anything, i am happy to help;
-languages and tools:
-
-         
-
-📊 this week i spent my time on:
-
-TypeScript   11 hrs 10 mins  █████████████████████░░░░   83.72 %
-JavaScript   1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Swift        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-Buy Me A Coffee
-
-🚧 my todoist stats:
-
-🏆 8,004 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 673 tasks so far
-⏳ Longest streak is 10 days
-
-📈 my github stats
-
-abhisheknaiidu
-
-#### Latest YouTube Videos:😄
 <div align="center">
-  <div style="float:left; width:50%;">
-    <iframe width="420" height="315" src="https://youtu.be/hjlTf38DUGU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <div style="float:right; width:50%;">
-    <iframe width="420" height="315" src="https://www.youtube.com/watch?v=g04N71f4a_g" frameborder="0" allowfullscreen></iframe>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-#### Subscribe for more:✨
-<p align="center">
-  <button><a href="https://www.youtube.com/@uwihanganyeobed9446">Subscribe</a></button>
-</p>
+###
 
-#### GitHub Statistics:👯
-<p align="center">
-Get myGitHUb
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
