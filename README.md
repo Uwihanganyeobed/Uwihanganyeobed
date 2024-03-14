@@ -44,6 +44,41 @@ I'm a computer science student at the University of Rwanda, passionate about bot
 <h5>Collaboration with Other Programmers</h5>
 <p>Effective collaboration with fellow programmers is essential for success in any project. By leveraging each other's strengths, sharing knowledge, and communicating openly, we can build robust solutions that meet our goals efficiently. Utilizing version control systems such as Git allows us to work concurrently on codebases while keeping track of changes and resolving conflicts seamlessly. Additionally, establishing clear coding conventions and documentation practices fosters better understanding and smoother integration of our contributions. Regular code reviews and constructive feedback sessions further enhance the quality of our work and promote continuous improvement. Together, we can achieve greater innovation and tackle complex challenges with confidence.</p>
 
+abhisheknaiidu/README.md
+hi, i'm Abhishek Naidu, a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+
+💼 any freelance work? do reach, email :)
+💬 ask me about anything, i am happy to help;
+languages and tools:
+
+         
+
+📊 this week i spent my time on:
+
+TypeScript   11 hrs 10 mins  █████████████████████░░░░   83.72 %
+JavaScript   1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Swift        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+Buy Me A Coffee
+
+🚧 my todoist stats:
+
+🏆 8,004 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 673 tasks so far
+⏳ Longest streak is 10 days
+
+📈 my github stats
+
+abhisheknaiidu
+
 #### Latest YouTube Videos:😄
 <div align="center">
   <div style="float:left; width:50%;">
