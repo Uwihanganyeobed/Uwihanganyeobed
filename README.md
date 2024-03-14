@@ -1,4 +1,19 @@
 ### UWIHANGANYE Obed 👋
+![nodejs](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/8ada3c5b-009b-471f-be94-cfcad9fc03a3)
+
+![javascript](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/ebb12363-6410-4b7c-b914-d5e958fdd459)
+![react](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/eb91d9f1-3a3d-4c67-94e3-f1974ad98103)
+
+![vue](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/eb5e1cdd-5c08-4fca-b76d-debd62f56b6c)![git](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/edac9da7-7c24-4cc4-b468-ecb6f74390bf)
+
+![mysql](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/854161bf-90c2-4d78-a20f-d5e573febbd1)
+
+![cpp](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/e7b42046-3898-4f46-995d-449e65cc4877)
+![python](https://github.com/Uwihanganyeobed/Uwihanganyeobed/assets/122959151/e31a12d8-c5d1-4f04-893c-0e5f6d9ccfc6)
+
+
+
+
 
 <!--
 **Uwihanganyeobed/Uwihanganyeobed** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
