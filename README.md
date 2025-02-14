@@ -44,7 +44,7 @@ Other        10 mins         ⭐⭐⭐⭐⭐   06.75 %
 <!-- TODO-IST:START -->
 🚀 [E-Commerce Website](https://react-mern-ecommerce-nine.vercel.app/) 🛋️  
 🚀 [Modern-UI React](https://modern-ui-react-project.vercel.app/) 🎨  
-🚀 [My Portfolio](https://uix-next-portifolio-vargas.vercel.app/) 🌐  
+🚀 [My Portfolio](https://obedvargasportifolio.vercel.app/) 🌐  
 🚀 [My Landing page](https://vargas-landing-page.vercel.app/) 📺  
 <!-- TODO-IST:END -->
 
