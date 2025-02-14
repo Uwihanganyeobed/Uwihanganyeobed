@@ -42,10 +42,10 @@ Other        10 mins         ⭐⭐⭐⭐⭐   06.75 %
 
 ## 🎺 My Completed Projects  
 <!-- TODO-IST:START -->
-🚀 [E-Commerce Website](https://front-end-ashy-three.vercel.app/) 🛋️  
+🚀 [E-Commerce Website](https://react-mern-ecommerce-nine.vercel.app/) 🛋️  
 🚀 [Modern-UI React](https://modern-ui-react-project.vercel.app/) 🎨  
-🚀 [My Portfolio](https://my-portifolio-rho-eight.vercel.app/) 🌐  
-🚀 [YouTube Website Clone](https://youtube-website-html.vercel.app/) 📺  
+🚀 [My Portfolio](https://uix-next-portifolio-vargas.vercel.app/) 🌐  
+🚀 [My Landing page](https://vargas-landing-page.vercel.app/) 📺  
 <!-- TODO-IST:END -->
 
 ---
