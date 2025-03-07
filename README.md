@@ -17,7 +17,7 @@ I work on **random projects** in my free time, especially on **Discord Bots, Web
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,php,cs,java,python,solidity,dart" />
     </br>
-    <img src="https://skillicons.dev/icons?i=eclipse,figma,npm,bootstrap,react,laravel,flutter,vite,nextjs,blender,mysql,tailwind" />
+    <img src="https://skillicons.dev/icons?i=eclipse,figma,npm,bootstrap,react,laravel,flutter,vite,ethereum,blockchain,nextjs,blender,mysql,tailwind" />
     </br>
     <img src="https://skillicons.dev/icons?i=replit,git,postman,nodejs,supabase,mongodb,gitlab,github,firebase,netlify,vercel,postgresql,linux" />
   </a>
